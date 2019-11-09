@@ -1,2 +1,1 @@
-Exapmle of Jest framework creation from Hexlet courses
-
+Example of Jest framework creation from Hexlet courses
